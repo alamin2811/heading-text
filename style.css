@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&display=swap");
+
+/* font-family: "Luckiest Guy"; */
+
+body{
+    padding: 0;
+    margin: 0;
+    background: #11121f;
+    padding-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+    font-family: "Luckiest Guy";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    max-width: 300px;
+    padding: 5px 20px;
+    background: #FFF;
+    border: 2px solid #001572;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.button h1{
+    font-size: 30px;
+}
+.button h2{
+    font-size: 25px;
+}
+.button h3{
+    font-size: 22px;
+}
+.button h4{
+    font-size: 20px;
+}
+.button h5{
+    font-size: 18px;
+}
+.button h5{
+    font-size: 16px;
+}
+
+.btn{
+    font-family: "Luckiest Guy";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    max-width: 300px;
+    padding: 5px 20px;
+    background: #FFF;
+    border: 2px solid #001572;
+    border-radius: 30px;
+    margin: 10px auto;
+}
