@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6{
     max-width: 300px;
     padding: 5px 20px;
     background: #FFF;
-    border: 2px solid #001572;
+    border: 2px solid #82e6ff;
     border-radius: 30px;
     margin: 10px auto;
 }
@@ -47,16 +47,18 @@ h1, h2, h3, h4, h5, h6{
     font-size: 16px;
 }
 
+.defult-heading{
+    max-width: 300px;
+    margin: auto;
+}
 .btn{
     font-family: "Luckiest Guy";
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 50px;
-    max-width: 300px;
-    padding: 5px 20px;
-    background: #FFF;
-    border: 2px solid #001572;
+    padding: 10px 20px;
+    background: #82e6ff;
+    border: 2px solid red;
     border-radius: 30px;
     margin: 10px auto;
 }
