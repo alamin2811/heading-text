@@ -17,9 +17,6 @@ h1, h2, h3, h4, h5, h6{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.button{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,22 +29,23 @@ h1, h2, h3, h4, h5, h6{
     margin: 10px auto;
 }
 
-.button h1{
+
+h1{
     font-size: 30px;
 }
-.button h2{
+h2{
     font-size: 25px;
 }
-.button h3{
+h3{
     font-size: 22px;
 }
-.button h4{
+h4{
     font-size: 20px;
 }
-.button h5{
+h5{
     font-size: 18px;
 }
-.button h5{
+h5{
     font-size: 16px;
 }
 
