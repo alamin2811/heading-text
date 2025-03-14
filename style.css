@@ -10,6 +10,7 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6{
+    font-family: "Luckiest Guy", cursive;
     margin: 0;
     padding: 0;
     height: 30px;
@@ -19,7 +20,6 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .button{
-    font-family: "Luckiest Guy";
     display: flex;
     align-items: center;
     justify-content: center;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6{
     font-size: 16px;
 }
 
-.defult-heading{
+/* .defult-heading{
     max-width: 300px;
     margin: auto;
 }
@@ -65,4 +65,4 @@ h1, h2, h3, h4, h5, h6{
     border: 2px solid red;
     border-radius: 30px;
     margin: 10px auto;
-}
+} */
